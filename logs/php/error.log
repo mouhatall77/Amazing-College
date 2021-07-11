@@ -1,0 +1,32 @@
+[11-Jul-2021 01:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\index.php:75
+Stack trace:
+#0 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tallm\\...')
+#2 C:\Users\tallm\Local Sites\amazing-college\app\public\index.php(17): require('C:\\Users\\tallm\\...')
+#3 {main}
+  thrown in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\index.php on line 75
+[11-Jul-2021 01:34:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_files_uri() in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\index.php:75
+Stack trace:
+#0 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tallm\\...')
+#2 C:\Users\tallm\Local Sites\amazing-college\app\public\index.php(17): require('C:\\Users\\tallm\\...')
+#3 {main}
+  thrown in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\index.php on line 75
+[11-Jul-2021 03:31:04 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\page.php on line 20
+[11-Jul-2021 03:31:16 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\page.php on line 20
+[11-Jul-2021 03:32:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\page.php on line 20 and exactly 1 expected in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\post.php:7329
+Stack trace:
+#0 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\page.php(20): wp_get_post_parent_id()
+#1 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tallm\\...')
+#2 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tallm\\...')
+#3 C:\Users\tallm\Local Sites\amazing-college\app\public\index.php(17): require('C:\\Users\\tallm\\...')
+#4 {main}
+  thrown in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\post.php on line 7329
+[11-Jul-2021 03:32:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_get_post_parent_id(), 0 passed in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\page.php on line 20 and exactly 1 expected in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\post.php:7329
+Stack trace:
+#0 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-content\themes\fictional-university-theme\page.php(20): wp_get_post_parent_id()
+#1 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\tallm\\...')
+#2 C:\Users\tallm\Local Sites\amazing-college\app\public\wp-blog-header.php(19): require_once('C:\\Users\\tallm\\...')
+#3 C:\Users\tallm\Local Sites\amazing-college\app\public\index.php(17): require('C:\\Users\\tallm\\...')
+#4 {main}
+  thrown in C:\Users\tallm\Local Sites\amazing-college\app\public\wp-includes\post.php on line 7329
