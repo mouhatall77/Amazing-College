@@ -1,0 +1,25 @@
+.sirsc-feature .sirsc-rows .label {
+	background: #fff;
+	display: inline-block;
+	float: right;
+	padding: 0 10px;
+}
+
+.sirsc-feature .sirsc-rows ul,
+.sirsc-feature .sirsc-rows ul li {
+	margin: 0;
+}
+
+/* stylelint-disable-next-line */
+.sirsc-feature #sirsc_imgseo-renamefile-title,
+.sirsc-feature #sirsc-is-rename-wrap button {
+	width: 100%;
+}
+
+.sirsc-feature #sirsc-is-rename-wrap button {
+	display: inline-flex;
+}
+
+.sirsc-feature .sirsc-imgseo-toggler {
+	cursor: pointer;
+}

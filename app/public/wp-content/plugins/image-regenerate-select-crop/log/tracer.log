@@ -1,0 +1,218 @@
+<li><em>2021-08-02 01:23:52</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":76} )</li>
+<li><em>2021-08-02 01:23:52</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":76} )</li>
+<li><em>2021-08-02 01:23:52</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"pageBanner"} )</li>
+<li><em>2021-08-02 01:23:52</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-02 01:23:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-02 01:23:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"1536x1536"} )</li>
+<li><em>2021-08-02 01:23:51</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"large"} )</li>
+<li><em>2021-08-02 01:23:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"medium_large"} )</li>
+<li><em>2021-08-02 01:23:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"medium"} )</li>
+<li><em>2021-08-02 01:23:50</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":76,"size_name":"thumbnail"} )</li>
+<li><em>2021-08-02 01:23:50</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":76,"type":"attachment","parent_id":46,"parent_type":"event"} )</li>
+<li><em>2021-08-02 00:26:49</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":74} )</li>
+<li><em>2021-08-02 00:26:49</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":74} )</li>
+<li><em>2021-08-02 00:26:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"pageBanner"} )</li>
+<li><em>2021-08-02 00:26:49</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-02 00:26:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-02 00:26:48</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"2048x2048"} )</li>
+<li><em>2021-08-02 00:26:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"1536x1536"} )</li>
+<li><em>2021-08-02 00:26:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"large"} )</li>
+<li><em>2021-08-02 00:26:45</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"medium_large"} )</li>
+<li><em>2021-08-02 00:26:44</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"medium"} )</li>
+<li><em>2021-08-02 00:26:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":74,"size_name":"thumbnail"} )</li>
+<li><em>2021-08-02 00:26:43</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":74,"type":"attachment","parent_id":11,"parent_type":"page"} )</li>
+<li><em>2021-08-01 23:49:05</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":73} )</li>
+<li><em>2021-08-01 23:49:05</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":73} )</li>
+<li><em>2021-08-01 23:49:05</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"pageBanner"} )</li>
+<li><em>2021-08-01 23:49:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:49:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:49:04</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"1536x1536"} )</li>
+<li><em>2021-08-01 23:49:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"large"} )</li>
+<li><em>2021-08-01 23:49:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"medium_large"} )</li>
+<li><em>2021-08-01 23:49:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"medium"} )</li>
+<li><em>2021-08-01 23:49:03</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":73,"size_name":"thumbnail"} )</li>
+<li><em>2021-08-01 23:49:02</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":73,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:43:12</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":72} )</li>
+<li><em>2021-08-01 23:43:12</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":72} )</li>
+<li><em>2021-08-01 23:43:12</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"pageBanner"} )</li>
+<li><em>2021-08-01 23:43:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:43:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:43:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"1536x1536"} )</li>
+<li><em>2021-08-01 23:43:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"large"} )</li>
+<li><em>2021-08-01 23:43:11</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"medium_large"} )</li>
+<li><em>2021-08-01 23:43:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"medium"} )</li>
+<li><em>2021-08-01 23:43:10</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":72,"size_name":"thumbnail"} )</li>
+<li><em>2021-08-01 23:43:10</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":72,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:23:21</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":68} )</li>
+<li><em>2021-08-01 23:23:21</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":68} )</li>
+<li><em>2021-08-01 23:23:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":68,"size_name":"medium"} )</li>
+<li><em>2021-08-01 23:23:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":68,"size_name":"thumbnail"} )</li>
+<li><em>2021-08-01 23:23:21</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":68,"type":"attachment","parent_id":59,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:22:52</em>
+DO ACTION <b>sirsc_attachment_images_ready</b> ( {"meta":"...","id":67} )</li>
+<li><em>2021-08-01 23:22:52</em>
+APPLY FILTER <strong>sirsc_computed_metadata_after_upload</strong> ( {"meta":"...","id":67} )</li>
+<li><em>2021-08-01 23:22:52</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":67,"size_name":"medium"} )</li>
+<li><em>2021-08-01 23:22:52</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":67,"size_name":"thumbnail"} )</li>
+<li><em>2021-08-01 23:22:52</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":67,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:19:47</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":66} )</li>
+<li><em>2021-08-01 23:19:47</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":66,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:19:47</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":66,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:19:46</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":65} )</li>
+<li><em>2021-08-01 23:19:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:19:46</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:19:46</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":65,"type":"attachment","parent_id":64,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:19:45</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":62} )</li>
+<li><em>2021-08-01 23:19:45</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":62,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:19:45</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":62,"type":"attachment","parent_id":59,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:19:44</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":61} )</li>
+<li><em>2021-08-01 23:19:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":61,"size_name":"professorPortrait"} )</li>
+<li><em>2021-08-01 23:19:43</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":61,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:19:38</em>
+DO ACTION <b>sirsc_image_file_deleted</b> ( {"id":65,"file":"C:\\Users\\tallm\\Local Sites\\amazing-college\\app\\public/wp-content/uploads/2021/08/froggerson-480x365.jpg"} )</li>
+<li><em>2021-08-01 23:18:43</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":66} )</li>
+<li><em>2021-08-01 23:18:43</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":66,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:43</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":66,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:42</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":65} )</li>
+<li><em>2021-08-01 23:18:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:42</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:42</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":65,"type":"attachment","parent_id":64,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:38</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":62} )</li>
+<li><em>2021-08-01 23:18:38</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":62,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:38</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":62,"type":"attachment","parent_id":59,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:37</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":61} )</li>
+<li><em>2021-08-01 23:18:37</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":61,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:37</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":61,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:22</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":66} )</li>
+<li><em>2021-08-01 23:18:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":66,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:22</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":66,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:21</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":65} )</li>
+<li><em>2021-08-01 23:18:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:21</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:21</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":65,"type":"attachment","parent_id":64,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:17</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":62} )</li>
+<li><em>2021-08-01 23:18:17</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":62,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:17</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":62,"type":"attachment","parent_id":59,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:16</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":61} )</li>
+<li><em>2021-08-01 23:18:16</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":61,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:18:16</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":61,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:18:02</em>
+DO ACTION <b>sirsc_image_file_deleted</b> ( {"id":65,"file":"C:\\Users\\tallm\\Local Sites\\amazing-college\\app\\public/wp-content/uploads/2021/08/froggerson-400x260.jpg"} )</li>
+<li><em>2021-08-01 23:16:22</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":66} )</li>
+<li><em>2021-08-01 23:16:22</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":66,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:16:22</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":66,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:16:20</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":65} )</li>
+<li><em>2021-08-01 23:16:20</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:16:20</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":65,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:16:20</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":65,"type":"attachment","parent_id":64,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:16:19</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":62} )</li>
+<li><em>2021-08-01 23:16:19</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":62,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:16:19</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":62,"type":"attachment","parent_id":59,"parent_type":"professor"} )</li>
+<li><em>2021-08-01 23:16:18</em>
+DO ACTION <b>sirsc_attachment_images_processed</b> ( {"meta":"...","id":61} )</li>
+<li><em>2021-08-01 23:16:18</em>
+DO ACTION <b>sirsc_image_processed</b> ( {"id":61,"size_name":"professorLandscape"} )</li>
+<li><em>2021-08-01 23:16:18</em>
+APPLY FILTER <strong>sirsc_custom_upload_rule</strong> ( {"settings":"...","id":61,"type":"attachment","parent_id":60,"parent_type":"professor"} )</li>

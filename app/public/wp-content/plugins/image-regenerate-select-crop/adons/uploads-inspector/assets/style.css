@@ -1,0 +1,91 @@
+.sirsc-feature .sirsc-flex h2,
+.sirsc-feature .sirsc-grid h2,
+.sirsc-feature .sirsc-grid-auto h2 {
+	margin-bottom: 20px;
+}
+
+#sirsc-listing-wrap .js-sirsc-adon-improf-list-pagination {
+	min-width: 12px !important;
+}
+
+#sirsc-listing-wrap .thumb {
+	background: var(--color-secondary);
+	border: 1px solid var(--color-border);
+	border-radius: 3px;
+	display: inline-block;
+	height: 32px;
+	margin-right: 10px;
+	overflow: hidden;
+	position: relative;
+	vertical-align: middle;
+	width: 32px;
+}
+
+#sirsc-listing-wrap .thumb img {
+	display: block;
+	max-height: 64px;
+	max-width: 64px;
+	min-height: 32px;
+	min-width: 32px;
+	position: absolute;
+}
+
+.sirsc-listing-wrap-item {
+	cursor: pointer;
+}
+
+#sirsc-listing-wrap .heading,
+#sirsc-filesinfo-wrap .heading {
+	color: var(--color-main) !important;
+}
+
+#sirsc-listing-wrap .rows > * {
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+}
+
+#sirsc-listing-wrap .rows .last {
+	padding-right: 10px !important;
+}
+
+@media screen and (max-width: 1280px) {
+	#sirsc-listing-wrap .rows.heading {
+		display: none !important;
+	}
+
+	.sirsc-feature .rows:not(.pags) > [data-title]::before {
+		border-top: 0 !important;
+		display: inline-block;
+		left: -10px;
+		position: absolute;
+		text-align: right;
+		top: -15px;
+		width: 130px;
+	}
+
+	#sirsc-listing-wrap .rows {
+		grid-template-columns: repeat(1, 1fr) !important;
+	}
+
+	#sirsc-listing-wrap .rows > * {
+		min-height: 32px;
+		padding: 5px 10px 5px 130px !important;
+		text-align: left;
+	}
+
+	#sirsc-listing-wrap .rows.pags > * {
+		padding: 0 0 20px 0 !important;
+	}
+
+	#sirsc-listing-wrap .rows > .first {
+		padding-top: 20px !important;
+	}
+
+	#sirsc-listing-wrap .rows > .first::before {
+		top: 0;
+	}
+
+	#sirsc-listing-wrap .rows > .last {
+		padding-bottom: 20px !important;
+	}
+}

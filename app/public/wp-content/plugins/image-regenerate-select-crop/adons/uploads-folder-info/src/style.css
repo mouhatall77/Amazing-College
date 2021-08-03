@@ -1,0 +1,95 @@
+.sirsc-folders-info {
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+.sirsc-folders-info-wrap .rows > * {
+	padding-bottom: 10px !important;
+	padding-top: 10px !important;
+}
+
+.sirsc-folders-info-wrap .rows .last {
+	padding-right: 10px !important;
+}
+
+@media screen and (max-width: 1280px) {
+	.sirsc-folders-info-wrap .rows.heading {
+		display: none !important;
+	}
+
+	.sirsc-feature .rows > [data-title]::before {
+		border-top: 0 !important;
+		display: inline-block;
+		left: -10px;
+		position: absolute;
+		text-align: right;
+		top: -15px;
+		width: 50%;
+	}
+
+	.sirsc-folders-info-wrap .rows {
+		grid-template-columns: repeat(1, 1fr) !important;
+	}
+
+	.sirsc-folders-info-wrap .rows > *:not(.name-wrap) {
+		min-height: 32px;
+		padding: 5px 10px 5px 50% !important;
+	}
+
+	.sirsc-folders-info-wrap .rows > .name-wrap::before {
+		display: none;
+	}
+
+	.sirsc-folders-info-wrap .rows > .name-wrap {
+		min-height: 32px;
+	}
+}
+
+.sirsc-folders-info .heading {
+	color: var(--color-main) !important;
+	font-size: 14px;
+}
+
+.sirsc-folders-info .name {
+	height: 24px;
+	line-height: 24px;
+	position: relative;
+}
+
+.sirsc-folders-info .name b,
+.sirsc-folders-info b.label {
+	background: #fff;
+	border: 1px dashed var(--color-main);
+	border-radius: 3px;
+	color: #000;
+	display: inline-block;
+	height: 24px;
+	line-height: 24px;
+	padding: 0 10px;
+	position: relative;
+	z-index: 10;
+}
+
+.sirsc-folders-info .name::before {
+	border-top: 1px dashed var(--color-main);
+	content: " ";
+	display: block;
+	height: 24px;
+	margin-left: -24px;
+	position: absolute;
+	top: 12px;
+	width: 24px;
+	z-index: 1;
+}
+
+.sirsc-folders-info .name::after {
+	border-left: 1px dashed var(--color-main);
+	content: " ";
+	display: block;
+	height: 29px;
+	margin-left: -24px;
+	position: absolute;
+	top: -16px;
+	width: 24px;
+	z-index: 1;
+}
